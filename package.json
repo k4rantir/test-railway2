@@ -1,0 +1,27 @@
+{
+  "name": "test-railway",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivantjendra/test-railway.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivantjendra/test-railway/issues"
+  },
+  "homepage": "https://github.com/ivantjendra/test-railway#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "pg": "^8.10.0",
+    "sequelize": "^6.29.3"
+  }
+}
